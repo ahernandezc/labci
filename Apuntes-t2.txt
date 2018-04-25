@@ -1,1 +1,2 @@
 [Gilberto] Primerqa linea del archivo
+[Gilberto] Línea diferencia para ejemplo de conflictos

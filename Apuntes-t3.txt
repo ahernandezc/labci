@@ -1,2 +1,3 @@
 [Adriana] Crea archivo para t3
 [Gilberto] Linea para t3
+[Adriana] Se agrega actualización de t3 08/06/2018

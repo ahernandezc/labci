@@ -1,3 +1,4 @@
 [Adriana] Apuntes de tarea 1
-[Gilberto] Adición de nueva línea
+[Gilberto] Adiciï¿½n de nueva lï¿½nea
+[Adriana] Modificaciï¿½n para t4 - 06 de junio del 2018
 [Gilberto] nueva linea, 20180608

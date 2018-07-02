@@ -4,4 +4,5 @@
 [Adriana] Línea agregada para t3
 [Gilberto] Línea para T3
 [Adriana] Línea para T5 - 13/Junio/2018
+[Adriana] Línea pra fix en master - 02/Julio/2018
 
